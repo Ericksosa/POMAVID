@@ -47,7 +47,7 @@ li a{
 .slider{
     z-index: -1;
     margin-top: 10px;
-    background-image: url("/img/entrada.jpg");
+    background-image: url("entrada.jpg");
     background-size: cover;
     height: 78%;
     width: 88%;
@@ -57,19 +57,19 @@ li a{
 
 @keyframes animate {
     25%{
-        background-image: url("/img/visita.JPG");
+        background-image: url("visita.JPG");
         background-size: cover;
     }
     50%{
-        background-image: url("/img/harmonix.jpg");
+        background-image: url("harmonix.jpg");
         background-size: cover;
     }
     75%{
-        background-image: url("/img/graduacion.jpg");
+        background-image: url("graduacion.jpg");
         background-size: cover;
     }
     100%{
-        background-image: url("/img/entrada.jpg");
+        background-image: url("entrada.jpg");
         background-size: cover;
     }
 
